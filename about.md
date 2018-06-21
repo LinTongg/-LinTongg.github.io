@@ -31,7 +31,7 @@ title: 关于我
 有些文章摘自微信公众号的推文！！
   
   
-
+![](/images/照片.jpg)
 
 
 {% include comments.html %}
